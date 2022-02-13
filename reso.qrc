@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/iccoon.png</file>
+        <file>res/icon.png</file>
+        <file>res/milk-mocha.gif</file>
+        <file>res/zzzv.mp3</file>
+    </qresource>
+</RCC>
